@@ -33,7 +33,3 @@ data:
           isDefault: true
           access: proxy
           editable: true
-          
-                  - name: prometheus-config
-          configMap:
-            name: prometheus-grafana-config
